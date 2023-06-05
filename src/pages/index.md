@@ -29,4 +29,4 @@ Email: sydcssgroup@gmail.com
 
 If you have questions or feedback about this Code of Conduct, please contact one of the organisers.
 
-*SydCSS organisers developed this Code of Conduct to govern all SydCSS events and communication channels. We used the Sydney Tech Leaders code of conduct as a guide, itself influenced by the Geek Feminism Conference anti-harassment policy as a starting point. This Code of Conduct, like its inspirations, is licensed under the Creative Commons — CC0 1.0 Universal license.*
+*SydCSS organisers developed this Code of Conduct to govern all SydCSS events and communication channels. We used the [Sydney Tech Leaders code of conduct](https://sydtechleaders.github.io/coc.html) as a guide, itself influenced by the [Geek Feminism Conference anti-harassment policy](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy) as a starting point. This Code of Conduct, like its inspirations, is licensed under the Creative Commons — CC0 1.0 Universal license.*
